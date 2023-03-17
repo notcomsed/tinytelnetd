@@ -1,5 +1,5 @@
 # tinytelnetd
-tiny tenlet server for windows. support win7 win 8.1,win10. multi-user, not need privilege .stand alone binary, not have relylibrary.
+tiny telnet server for windows. support win7 win 8.1,win10. multi-user, not need privilege .stand alone binary, not have relylibrary.
 
 ### How to use
 #### start
